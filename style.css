@@ -1,0 +1,32 @@
+#block{
+ text-align: left; 
+ font-size: 20px;
+ width: 70%; 
+ margin: 0 auto;
+ border-bottom: 1px solid black;
+ padding-bottom: 20px;
+ padding-left: 20px;
+}
+#block.top{
+	text-align: center;
+}
+#block.bottom{
+	border-bottom: none;
+}
+.text{
+	text-align: left;
+font-size: 20px;
+}
+.link{
+	display: block;
+	text-align: left;
+
+}
+.center-text{
+text-align: center;
+margin: 0 auto;
+}
+img{
+	width: 400px; 
+	height: 300px;
+}
